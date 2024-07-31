@@ -1,16 +1,36 @@
 # CRUD Application in PHP
-A Simple CRUD application in PHP 
+==========================
 
-# Pre-requisites
--- PHP 8.2 
--- XAMPP Control Panel 3.3.0
+A Simple CRUD application in PHP
 
-# Working
- Create a new PHP project inside htdocs folder of XAMPP folder.
- If you have already existing project then create a folder inside htdocs and place all your files inside it.
- Start the APACHE server in XAMPP Control Panel
- Start the MySQL server in XAMPP Control Panel
- Go to browser and type in the localhost:Port you have specified.
+## Pre-requisites
+---------------
+
+* PHP 8.2
+* XAMPP Control Panel 3.3.0
+
+## Working
+---------
+
+### Step 1: Create a new PHP project
+
+Create a new PHP project inside the `htdocs` folder of the XAMPP folder.
+
+### Step 2: Set up your project structure
+
+If you have an existing project, create a folder inside `htdocs` and place all your files inside it.
+
+### Step 3: Start the Apache server
+
+Start the Apache server in the XAMPP Control Panel.
+
+### Step 4: Start the MySQL server
+
+Start the MySQL server in the XAMPP Control Panel.
+
+### Step 5: Access the application
+
+Go to your browser and type in `localhost:Port` (replace `Port` with the port number you have specified).
  
  ![image](https://github.com/user-attachments/assets/ffaeac70-39b5-41de-9159-f302fbbd1a63)
 ![image](https://github.com/user-attachments/assets/18416b79-fba6-406e-bdaa-e3925e8bea5d)
