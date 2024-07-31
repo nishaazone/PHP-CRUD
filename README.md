@@ -1,6 +1,5 @@
 # CRUD Application in PHP
 ==========================
-
 A Simple CRUD application in PHP
 
 ## Pre-requisites
