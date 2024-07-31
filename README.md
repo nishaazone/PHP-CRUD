@@ -30,10 +30,13 @@ Start the MySQL server in the XAMPP Control Panel.
 
 Go to your browser and type in `localhost:Port` (replace `Port` with the port number you have specified).
 
+Index.php
  ![image](https://github.com/user-attachments/assets/a0221a85-3c39-46e0-ad7c-4d2c0f0927ea)
  ---
+Home.php
 ![image](https://github.com/user-attachments/assets/18416b79-fba6-406e-bdaa-e3925e8bea5d)
 ---
+Update.php
 ![image](https://github.com/user-attachments/assets/54512d1a-d026-4f17-84a9-d0bf57083b44)
 ---
 
