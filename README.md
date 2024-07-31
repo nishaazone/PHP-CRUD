@@ -13,3 +13,6 @@ A Simple CRUD application in PHP
  Go to browser and type in the localhost:Port you have specified.
  
  ![image](https://github.com/user-attachments/assets/ffaeac70-39b5-41de-9159-f302fbbd1a63)
+![image](https://github.com/user-attachments/assets/18416b79-fba6-406e-bdaa-e3925e8bea5d)
+![image](https://github.com/user-attachments/assets/54512d1a-d026-4f17-84a9-d0bf57083b44)
+
