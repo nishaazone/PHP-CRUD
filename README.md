@@ -1,4 +1,4 @@
-# CRUD Application in PHP
+# CRUD Application in PHP (Photographer)
 A Simple CRUD application in PHP
 
 ## Pre-requisites
